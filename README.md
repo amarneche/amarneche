@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amar Neche!
 
-🎓 **Software Engineer** with a Bachelor’s in Computer Science from Algeria, equipped with over 2 years of hands-on experience in building full-stack web applications. Passionate about transforming business challenges into tech solutions and constantly learning to stay updated with the latest technologies.
+🎓 **Software Engineer** with a Bachelor’s in Computer Science from Algeria, equipped with over 4 years of hands-on experience in building full-stack web applications. Passionate about transforming business challenges into tech solutions and constantly learning to stay updated with the latest technologies.
 
 ---
 
