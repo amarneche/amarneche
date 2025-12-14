@@ -1,68 +1,123 @@
+# 👋 Hi, I'm Amar Neche!
 
-## 👋 Hi, I'm Amar Neche. Your Full-Stack SaaS Partner.
-
-I'm a **Full-Stack Software Engineer** who partners with SaaS founders to turn sharp ideas into **revenue-generating platforms**, fast. I specialize in building the **first version (0 to 1)** of production-ready SaaS products that are built to scale.
-
-In the last **4+ years**, I've architected, shipped, and iterated on everything from **AI-powered tools** and complex **LMS platforms** to high-volume **e-commerce solutions**.
+🚀 **Full-Stack Software Engineer** specializing in **AI-powered SaaS development**. I help SaaS founders go from **0 to 1** by architecting and building production-ready applications with cutting-edge **AI integrations** and modern tech stacks. With 4+ years of experience across **Laravel**, **Vue.js**, **Python**, and **AI/ML ecosystems**, I transform ideas into scalable, intelligent products.
 
 ---
 
-### 💰 What I Deliver to SaaS Founders
+## 💼 Experience
 
-I'm not just a coder—I'm a **product-minded engineer** who focuses on your business metrics.
+### Team Lead at Trybe
+*March 2025 - Present*
 
-* **🚀 Ship Fast, Land Hard:** Concept to production in weeks, not months. My architecture scales with your growth.
-* **🧠 Full-Stack Ownership:** I handle the entire technical stack: frontend, backend, AI integration, payments, and APIs.
-* **✨ AI Differentiation:** I build intelligent features that make your product stand out and deliver immediate value.
-* **🇩🇿 Algerian Market Specialist:** Deep expertise in local payment gateways (Chargily, Slickpay, Satim) and MENA market specifics.
+- **Leading 0-to-1 SaaS development** for AI-powered products in **HR Tech**, **EdTech**, and **SEO automation** domains.
+- Architecting **microservices-based architectures** using **Laravel**, **FastAPI**, **PostgreSQL**, and **Redis** for high-performance applications.
+- Implementing **AI/ML integrations** with **OpenAI GPT-4**, **Google Gemini**, **Anthropic Claude**, and custom **LangChain** pipelines.
+- Driving **technical strategy**, **system design**, and **DevOps practices** (Docker, CI/CD, GitHub Actions) for rapid iteration.
+- Mentoring engineering teams in **SOLID principles**, **TDD/BDD**, **API design**, and **AI-assisted development workflows** (Cursor, Claude Code).
 
----
+### Software Engineer at Trybe
+*June 2023 - March 2025*
 
-### 🏆 SaaS Success Stories (From 0 to Revenue)
+- Built **full-stack SaaS applications** using **Laravel 10+**, **Vue 3** (Composition API), **Nuxt 3** (SSR/SSG), and **Inertia.js** for seamless SPAs.
+- Developed **RESTful APIs** and **GraphQL endpoints** with **Laravel Sanctum/Passport** for authentication and authorization.
+- Integrated **OpenAI API**, **Google AI Studio**, and **LangChain** for **conversational AI**, **RAG systems**, and **intelligent automation**.
+- Built **Python microservices** with **FastAPI**, **Pydantic**, and **SQLAlchemy** for ML model serving and data processing.
+- Designed **component libraries** with **shadcn/ui**, **Tailwind CSS**, and **Headless UI** for consistent, accessible UIs.
+- Implemented **event-driven architectures** using **Laravel Queues**, **Redis**, and **WebSockets** for real-time features.
+- **Tech Stack**: Laravel, Vue.js, Nuxt.js, Inertia.js, Python, FastAPI, PostgreSQL, MySQL, Redis, Docker, Tailwind CSS, shadcn/ui, OpenAI, LangChain.
 
-These are real platforms I've architected, built, and shipped for founders:
+### Full-Stack Developer at Zone - Brand Agency
+*July 2020 - May 2022*
 
-| Product | Focus | Key Features & Impact | Tech Snapshot |
-| :--- | :--- | :--- | :--- |
-| **Tutorios.net** | Virtual Classroom LMS | Custom LMS for French educators. Integrated **Zoom API** for live classes and **Bunny Stream** VOD. Managed all local Algerian payment gateways. | Laravel, Vue.js, Zoom API |
-| **Skillsio.net** | Skills Assessment | Developed a **competency evaluation system** with AI-powered gap analysis. Built progress dashboards for HR teams to track training ROI. | Laravel, Vue.js, AI Analytics |
-| **Mizbar.ai** | Arabic AI Writing Assistant | Built an **Arabic content generation** platform integrated with **GPT-4**. Focus on custom Arabic prompts and context understanding. | FastAPI, Vue.js, OpenAI API |
-| **Wesmo.app** | E-commerce SaaS | Multi-tenant platform for Algerian sellers. Integrated local payments and **third-party delivery APIs** for real-time tracking. | Laravel, Vue.js, Multi-tenancy |
-| **GetOxtro.com** | Android SMS Gateway | Built an **Android app** and **REST API** to turn phones into a cost-effective bulk SMS and OTP gateway. | Laravel, Kotlin (Android), REST API |
-
-*(...and a two-sided **Voice Talent Marketplace**, multiple e-commerce platforms, and high-converting landing pages for agencies.)*
-
----
-
-### 🛠️ My Full-Stack Arsenal (Tech That Ships)
-
-I choose the right tool for the job to ensure speed and stability.
-
-* **Frontend:** **Vue.js 3**, **Nuxt.js**, **Inertia.js** with modern tooling like **Tailwind CSS**.
-* **Backend:** **Laravel (PHP)** for rapid development and queues; **FastAPI (Python)** for high-performance AI services.
-* **Database/Cache:** **PostgreSQL**, **MySQL**, **Redis**.
-* **AI/LLMs:** Expert integration of **OpenAI (GPT-4/Whisper)**, **Claude**, and **Google Gemini**. Proficient in **LangChain** for complex agent creation.
-* **Payments:** Full setup of **Stripe** (subscription/usage-based) and all major **Algerian local gateways** (Chargily, Slickpay, Satim).
-* **DevOps:** **Docker** for containerization, **GitHub Actions** for CI/CD, and deployment on **AWS/Vercel/Railway**.
+- Developed **Laravel-based web applications** with **Inertia.js** and **Vue.js** for reactive, SPA-like experiences.
+- Built **server-side rendered applications** using **Laravel + Inertia + Vue 3** stack with **TypeScript**.
+- Implemented **RESTful APIs**, **MySQL database design**, and **Eloquent ORM** for complex data relationships.
+- Created **responsive UI components** from **Figma designs** with **Tailwind CSS** and custom CSS.
+- Integrated **Google Analytics 4**, **Facebook Pixel**, **Google Tag Manager** for analytics and conversion tracking.
+- Optimized **application performance** (caching strategies, database indexing, lazy loading) and **SEO** (meta tags, structured data).
 
 ---
 
-### 🎯 Who I Work Best With
+## 🎓 Education
 
-Let's talk if you're a founder who is:
+- **Master's Degree** in Computer Systems Networking and Telecommunications  
+  *2018 - 2020*
 
-1.  **At the MVP stage** with a validated idea and need a **rapid, technical co-founder** to take it to market in 4-6 weeks.
-2.  **Growth-stage** and need to integrate **AI features** or optimize performance for a scaling user base.
-3.  **Targeting the Algerian/MENA market** and need a specialist who can handle the complexity of local payment and logistics integrations.
-
-**I don't just write code—I build products that generate revenue.**
+- **Bachelor's Degree** in Computer Science  
+  *2015 - 2018*
 
 ---
 
-### 📫 Let's Connect
+## 🤖 AI & SaaS Expertise
 
-* **Website**: [amarneche.me](https://amarneche.me)
-* **LinkedIn**: [linkedin.com/in/amar-neche](https://linkedin.com/in/amar-neche)
-* **Email**: contact@amarneche.me
+### Helping SaaS Founders: 0 to 1
+- **Rapid MVP Development**: Architecting and shipping production-ready SaaS products in weeks, not months.
+- **AI-First Architecture**: Integrating **LLMs**, **vector databases** (Pinecone, Weaviate), and **RAG systems** from day one.
+- **Product Strategy**: Translating business requirements into technical roadmaps and scalable architectures.
 
-**Ready to turn your SaaS idea into a shippable product?**
+### AI Technologies & Integrations
+- **LLM Platforms**: OpenAI (GPT-4, GPT-4 Turbo, Embeddings), Google AI (Gemini Pro), Anthropic (Claude 3), Cohere.
+- **AI Frameworks**: LangChain, LlamaIndex, Haystack for orchestration and RAG pipelines.
+- **Vector Databases**: Pinecone, Weaviate, Chroma for semantic search and embeddings.
+- **AI Applications**: Conversational AI, chatbots, content generation, document analysis, intelligent automation, sentiment analysis.
+- **Fine-tuning & Training**: Experience with model fine-tuning, prompt engineering, and few-shot learning.
+
+### AI-Assisted Development
+- **Cursor IDE**: Advanced AI pair programming with custom rules and context management.
+- **Claude Code**: Leveraging Claude for code generation, refactoring, and architectural decisions.
+- **GitHub Copilot**: AI-powered code completion and suggestion workflows.
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
+- **Languages**: PHP 8.x, Python 3.x, JavaScript/TypeScript (Node.js)
+- **Frameworks**: Laravel 10+, FastAPI, Express.js
+- **APIs**: RESTful, GraphQL, WebSockets, Server-Sent Events
+- **Authentication**: Laravel Sanctum, Passport, JWT, OAuth 2.0
+- **Databases**: PostgreSQL, MySQL, SQLite, Redis
+- **ORMs**: Eloquent, SQLAlchemy, Prisma
+- **Message Queues**: Laravel Queues, Redis, RabbitMQ
+
+### Frontend Development
+- **Frameworks**: Vue 3 (Composition API), Nuxt 3 (SSR/SSG), React, Next.js
+- **State Management**: Pinia, Vuex, Zustand
+- **Routing**: Vue Router, Inertia.js (hybrid SSR)
+- **UI Libraries**: shadcn/ui, Headless UI, Radix UI
+- **Styling**: Tailwind CSS, CSS Modules, SCSS
+- **Build Tools**: Vite, Webpack, Turbopack
+
+### AI & Machine Learning
+- **LLM Integration**: OpenAI API, Google AI, Anthropic, Cohere
+- **Frameworks**: LangChain, LlamaIndex, Haystack
+- **Vector DBs**: Pinecone, Weaviate, Chroma, FAISS
+- **ML Libraries**: scikit-learn, pandas, NumPy
+- **Embeddings**: OpenAI Embeddings, Sentence Transformers
+
+### DevOps & Infrastructure
+- **Containerization**: Docker, Docker Compose
+- **CI/CD**: GitHub Actions, Laravel Forge
+- **Cloud Platforms**: AWS , DigitalOcean, Netcup
+- **Version Control**: Git, GitHub, GitLab
+- **Monitoring**: Sentry, LogRocket, New Relic
+
+### Software Engineering Practices
+- **Architecture**: Microservices, Event-Driven, Domain-Driven Design (DDD)
+- **Design Patterns**: Repository, Service Layer, Factory, Observer, Strategy
+- **Principles**: SOLID, DRY, KISS, YAGNI
+- **Testing**: PHPUnit, Pest, Jest, Vitest, Playwright, Cypress
+- **Methodologies**: Agile, Scrum, TDD, BDD
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [Website](https://amarneche.me)
+- 💼 [LinkedIn](https://linkedin.com/in/amar-neche)
+- 📧 Email: contact@amarneche.me
+
+---
+
+💡 **Ready to build your AI-powered SaaS?** Let's turn your vision into reality with modern tech and intelligent automation.
+
